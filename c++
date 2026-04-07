@@ -1,5 +1,5 @@
-# aleks
-C++ project
-idk
-hgehjdf
-sdgja geiaaa
+#include <iostream>
+using namespace std;
+int main(){
+
+}
